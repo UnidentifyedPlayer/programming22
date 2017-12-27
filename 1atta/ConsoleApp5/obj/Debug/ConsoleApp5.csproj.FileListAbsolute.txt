@@ -1,0 +1,5 @@
+G:\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+G:\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+G:\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+G:\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+G:\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

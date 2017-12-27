@@ -1,0 +1,15 @@
+G:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\ConsoleApp1\ConsoleApp1\obj\Debug\1.8.8.csprojResolveAssemblyReference.cache
+F:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ConsoleApp1\ConsoleApp1\obj\Debug\1.8.8.csprojResolveAssemblyReference.cache

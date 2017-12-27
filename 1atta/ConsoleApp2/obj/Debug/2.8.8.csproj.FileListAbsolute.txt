@@ -1,0 +1,17 @@
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\2.8.8.csprojResolveAssemblyReference.cache
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\2.8.8.csproj.CoreCompileInputs.cache
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Зажравшийся Буржуй\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\ConsoleApp1\ConsoleApp2\obj\Debug\2.8.8.csprojResolveAssemblyReference.cache
+E:\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\ConsoleApp1\ConsoleApp2\obj\Debug\2.8.8.csprojResolveAssemblyReference.cache

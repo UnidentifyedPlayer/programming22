@@ -1,0 +1,8 @@
+E:\ConsoleApp1\5.8.8\bin\Debug\5.8.8.exe.config
+E:\ConsoleApp1\5.8.8\bin\Debug\5.8.8.exe
+E:\ConsoleApp1\5.8.8\bin\Debug\5.8.8.pdb
+E:\ConsoleApp1\5.8.8\obj\Debug\5.8.8.exe
+E:\ConsoleApp1\5.8.8\obj\Debug\5.8.8.pdb
+G:\ConsoleApp1\5.8.8\bin\Debug\5.8.8.exe.config
+G:\ConsoleApp1\5.8.8\obj\Debug\5.8.8.exe
+G:\ConsoleApp1\5.8.8\obj\Debug\5.8.8.pdb
